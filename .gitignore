@@ -1,0 +1,12 @@
+# Báo cáo tạm / log chạy script, không commit
+/report*.txt
+
+# Thư mục làm việc tạm và backup cục bộ
+/tmp/
+/backup/
+
+# OS / editor rác
+.DS_Store
+Thumbs.db
+*.swp
+*~
